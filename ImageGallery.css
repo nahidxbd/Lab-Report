@@ -1,0 +1,26 @@
+.heading{
+  color: goldenrod;
+  margin-left: 45%;
+}
+
+div.gallery {
+  margin: 5px;
+  border: 2px solid gray;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid goldenrod;
+  width: 300px;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
